@@ -1,0 +1,10 @@
+2022-03-20 12:30:05,662 [MainThread   [INFO ] Model: mBART
+2022-03-20 12:30:05,662 [MainThread   [INFO ] Machine translation translates from en_XX to vi_VN
+2022-03-20 12:30:05,817 [MainThread   [INFO ] Dataset: PhoMT
+2022-03-20 12:30:05,818 [MainThread   [INFO ] Train dataset: 18719 samples
+2022-03-20 12:30:05,819 [MainThread   [INFO ] Validation dataset: 18719 samples
+2022-03-20 12:30:05,819 [MainThread   [INFO ] Vocabulary size of tokenizer: 250054
+2022-03-20 12:30:05,820 [MainThread   [INFO ] --------- Running training ---------
+2022-03-20 12:30:05,820 [MainThread   [INFO ] Updates per epoch: 2339
+2022-03-20 12:30:05,820 [MainThread   [INFO ] Updates total: 35085
+2022-03-20 12:30:41,118 [MainThread   [INFO ] --------- EPOCH 0 ---------
